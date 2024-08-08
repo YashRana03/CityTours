@@ -5,7 +5,7 @@ export default [
     country: "United Kindom",
     dates: "17, aug 2024 - 25, aug 2024",
     description:
-      "London is one of the leading tourist destinations in the world and in 2015 was ranked as the most visited cityin the world with over 65million visits. It offers many tourist attractions such as the National History Museum, the Tower of London and Buckingham Palace.",
+      "London is one of the leading tourist destinations in the world and in 2015 was ranked as the most visited city in the world. It offers many tourist attractions such as the National History Museum, the Tower of London and Buckingham Palace.",
     image: "london.jpg",
   },
   {
